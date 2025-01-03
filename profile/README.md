@@ -1,4 +1,4 @@
-![[banner](banner.png)(https://www.john-lab.org/)]
+[![banner](banner.png)](https://www.john-lab.org/)
 
 # Welcome to the official GitHub of the John-Lab
 
